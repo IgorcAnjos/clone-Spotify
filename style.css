@@ -3,9 +3,13 @@
   margin: 0;
   padding: 0;
 }
-
+html{
+  background-color: black;
+}
 body {
   font-family: 'Roboto', sans-serif;
+  width: 1200px;
+  margin: auto;
 }
 a {
   text-decoration: none;
@@ -47,15 +51,15 @@ h2:hover{
   color: white;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
 }
 #navbar .navbar-container {
-  height: 20px;
   width: 80%;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 .logo-text {
