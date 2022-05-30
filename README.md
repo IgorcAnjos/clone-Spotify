@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Clone Spotify
-  ## Este é um clone da Interface do Spotify.
-  ## Feito somente com HTML & CSS
+  <h1> Clone Spotify</h1>
+  <h2> Este é um clone da Interface do Spotify.</h2>
+  <h2> Feito somente com HTML & CSS</h2>
 
   <div align="center">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,7 +10,7 @@
   </div>
 
 
-  ### Feito como objeto de estudo
+  <h3> Feito como objeto de estudo </h3>
 </div>
  
 <div align="center">
