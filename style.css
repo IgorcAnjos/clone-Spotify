@@ -199,7 +199,7 @@ h2:hover{
   transition: all 500ms ease;
 }
 .footer-info .rights .brazil-flag{
-  height: 35px;
+  height: 20px;
   width: auto;
-  display: inline;
+  display: inline-block;
 }
